@@ -4,7 +4,7 @@
     <string name="next">Selanjutnya</string>
     <string name="current_string_id">ID String sekarang:</string>
     <string name="selected_locale">Lokal pilihan:</string>
-    <string name="welcome">Selamat datang di Stringlate! Masukkan nama proyek GitHub dan pemiliknya atau sisipkan URL Git repositori di bawah ini untuk melanjutkan.</string>
+    <string name="welcome">Selamat datang di Stringlate! Masukkan nama proyek GitHub dan pemiliknya atau sisipkan tautan Git repositori di bawah ini untuk melanjutkan.</string>
     <string name="owner_hint">pemilik</string>
     <string name="repository_hint">repositori</string>
     <string name="or">atau</string>
@@ -16,7 +16,7 @@
     <string name="no_strings_found">Tidak ada berkas strings.xml yang ditemukan di repositori ini.</string>
     <string name="scanning_repository">Memindai repositori…</string>
     <string name="scanning_repository_long">Mencari berkas strings.xml di repositori…</string>
-    <string name="repo_or_url_required">Harap masukkan pemilik proyek dan nama atau URL.</string>
+    <string name="repo_or_url_required">Harap masukkan pemilik proyek dan nama atau tautan.</string>
     <string name="invalid_repo">Repositori yang masukan sepertinya tidak valid.</string>
     <string name="translated_string">String diterjemahkan</string>
     <string name="previous">Sebelumnya</string>
@@ -122,8 +122,8 @@
     <string name="creating_issue_ellipsis">Membuat issue…</string>
     <string name="creating_issue_long_ellipsis">Mencoba untuk membuat issue di GitHub…</string>
     <string name="issue_description">Deskripisi issue (%x akan diganti dengan terjemahannya):</string>
-    <string name="url_copied">Url telah disalin ke clipboard Anda.</string>
-    <string name="share_url">Bagikan Url</string>
+    <string name="url_copied">Tautan telah disalin ke clipboard Anda.</string>
+    <string name="share_url">Bagikan tautan</string>
     <string name="create_issue_success">Issue mu telah dibuat, selamat!</string>
     <string name="create_issue_error">Issue tidak bisa dibuat.</string>
     <string name="can_push_no_pr">Anda tampaknya memiliki akses tulis ke repositori ini. Tidak ada permintaan tarik yang akan dilakukan.</string>
